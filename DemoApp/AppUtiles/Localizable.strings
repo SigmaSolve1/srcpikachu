@@ -1,0 +1,43 @@
+/* 
+  Localizable.strings
+  hotelBids
+
+  Created by Shorhashi Sarkar on 11/23/16.
+  Copyright © 2016 hotelBids. All rights reserved.
+*/
+"LSBlankUserName" = "Please enter username.";
+"LSBlankPassword" = "Please enter password.";
+
+"LSBlankNoCamera" = "Sorry, this device has no camera.";
+
+"LSErrorTitle" = "FMS";
+"LSBlankFieldMsg" = "Please enter %@.";
+"LSErrorMsg" = "try again later";
+"LSok" = "OK";
+
+"LSLoginNextTF1" = "email";
+"LSLoginNextTF2" = "password";
+"LSValidEmailMsg" = "Email is not valid";
+"LSNetErrorMsg" = "Please check your internet connection and try again.";
+"LSValidNewPasswordMsg" = "New and Confirm password didn't matched";
+
+"LSRegisterNextTF1" = "name";
+"LSRegisterNextTF2" = "email";
+"LSRegisterNextTF3" = "mobile";
+"LSRegisterNextTF4" = "password";
+"LSRegisterNextTF5" = "Terms and conditions";
+
+"LSEditProfileName" = "name";
+
+"LSValidUsernameMsg" = "Username is not valid";
+"LSValidMobileNoMsg" = "Mobile is not valid";
+"LSValidPasswordMsg" = "Password is not valid";
+"LSValidTermsAndConditionsMsg" = "Please accept terms and conditions.";
+
+"LSErrorInternet" = "Internet";
+
+"LSResetCode" = "Code";
+
+"LSChangePasswordNextTF1" = "old password";
+"LSChangePasswordNextTF2" = "new password";
+"LSChangePasswordNextTF3" = "confirm password";
